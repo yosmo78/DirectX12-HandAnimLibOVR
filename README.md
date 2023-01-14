@@ -8,8 +8,8 @@ Steps to compile and run:
 5. While Oculus Headset is connected, Run: `.\BasicOVR.exe`
 
 To Debug:
-1. Run: .\Compile.bat
-2. Run: devenv .\BasicOVRDebug.exe
+1. Run: `.\Compile.bat`
+2. Run: devenv `.\BasicOVRDebug.exe`
 3. While Oculus Headset is connected, When Visual Studio is running, press F11
 
 Controls:
