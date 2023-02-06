@@ -14,7 +14,7 @@ To Debug:
 
 Controls:
 - Esc to pause/unpause
-- Alt + F4 to quit, or just close it from task manager
+- Alt + F4 to quit, or just close it from task manager (or close from the oculus menu)
 
 Improvements to make:
 - All the same improvements as https://github.com/yosmo78/Win32DirectX12-FPSCamera and https://github.com/yosmo78/DirectX12-MinimalOculusLibOVR
